@@ -2,7 +2,6 @@
 
 This repository explores various fraud detection techniques across different datasets and model configurations. The focus is on binary classification (Fraud = 1, Non-Fraud = 0), where experiments were conducted to understand how different sampling strategies, feature engineering, and temporal evaluation methods impact model performance.
 
----
 
 ## Project Structure
 
